@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Exactly 100 words — Matron Sorrel, the tired villain, hands over her famine.
-MONOLOGUE = "Lower that blade; you will scatter the peat, and I spent an hour coaxing the hearth-imp back to work. I am Matron Sorrel. Fourteen harvests I bought every grain-tithe in Tallowgate, binding three ward-mills in frost-iron so your smug council starves by Thursday. Thursday, mind you. Not tonight, please. Tonight my boots leak, the broth is water, and two cultists below are still bickering over who scrubs the blood altar. Here... take my ash-seal, the inkhorn, the whole wretched famine. Starve the shire yourself, then. By autumn you will pray some bright young fool kicks your own door in too."
+MONOLOGUE = "Lower that blade; you will scatter the peat, and I spent an hour coaxing the hearth-imp back to work. I am Matron Sorrel. Fourteen harvests I bought every grain-tithe in Tallowgate, binding three ward-mills in frost-iron so your smug council starves by Thursday. Thursday, mind you. Not tonight, please. Tonight my boots leak, the broth is water, and two cultists below are still bickering over who scrubs the blood altar. Here... take my ash-seal, the inkhorn, the whole doomed famine. Starve the shire yourself, then. By autumn you will pray some bright young fool kicks your own door in too."
 
 
 def main() -> None:
